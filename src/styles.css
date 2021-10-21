@@ -1,0 +1,57 @@
+#body {
+  width: 80%;
+  border: 1px solid black;
+  margin: auto;
+  background-color: azure;
+}
+
+#inp {
+  height: 40px;
+  width: 80%;
+  border-radius: 15px;
+  border: 1px solid red;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 5%;
+}
+#btn {
+  height: 40px;
+  border-radius: 15px;
+  border: 1px solid green;
+  background-color: grey;
+  font-size: 25px;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#btn1 {
+  height: 30px;
+  border-radius: 15px;
+  border: 1px solid green;
+  background-color: greenyellow;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+#btn2 {
+  height: 30px;
+  border-radius: 15px;
+  border: 1px solid green;
+  background-color: red;
+  font-size: 15px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+#divStyle {
+  height: 40px;
+  width: 90%;
+  margin: auto;
+  font-size: 20px;
+  padding: 5px;
+  text-align: center;
+  background-color: lightgreen;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
